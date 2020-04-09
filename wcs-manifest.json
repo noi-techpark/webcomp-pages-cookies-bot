@@ -1,0 +1,31 @@
+{
+  "title": "webcomp-pages-cookies-bot",
+  "description": "Cookiebot widget for letting users give their consent to the usage of cookies.",
+  "descriptionAbstract": "Cookiebot widget",
+  "license": "AGPL-3.0",
+  "repositoryUrl": "https://github.com/noi-techpark/webcomp-pages-cookies-bot",
+  "authors": [
+    {
+      "name": "NOI",
+      "email": "info@noi.bz.it",
+      "organization": "NOI S.p.A",
+      "organizationUrl": "https://noi.bz.it"
+    },
+    {
+      "name": "Daniel Rampanelli",
+      "email": "hello@danielrampanelli.com"
+    }
+  ],
+  "image": null,
+  "searchTags": ["pages", "cookies"],
+  "dist": {
+    "basePath": "dist",
+    "files": [
+      "pages-cookie-bot.min.js"
+    ]
+  },
+  "configuration": {
+    "tagName": "pages-cookie-bot",
+    "options": []
+  }
+}
